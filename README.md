@@ -6,9 +6,9 @@
   Bot's video : https://youtu.be/KjEwCLZ2bKY?si=f9mJGn1qY-8zJtxe
 
 ## Prerequisites
-# Before you begin, ensure you have the following installed on your system:
-# - Visual Studio: Required for building and running the bot.
-# - Telegram App: For controlling the bot remotely (optional but recommended).
+ Before you begin, ensure you have the following installed on your system:
+ - Visual Studio: Required for building and running the bot.
+ - Telegram App: For controlling the bot remotely (optional but recommended).
 
 ## Setup and Installation
 

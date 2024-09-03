@@ -10,11 +10,11 @@
  - Visual Studio: Required for building and running the bot.
  - Telegram App: For controlling the bot remotely (optional but recommended).
 
-## Setup and Installation
+# Setup and Installation
 
-# 1. Clone the Repository:
-#    git clone https://github.com/your-repo/blum-tap-bot.git
-#    cd blum-tap-bot
+## 1. Clone the Repository:
+    git clone https://github.com/your-repo/blum-tap-bot.git
+    cd blum-tap-bot
 
 # 2. Open in Visual Studio:
 #    Open the project in Visual Studio to review and modify the source code if needed.

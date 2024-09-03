@@ -1,9 +1,9 @@
 # Blum Tap Bot
 
 ## Overview
-# Blum Tap Bot is a tool designed to assist with specific in-game actions through automation.
-# This bot is controlled via a simple interface and can be easily integrated with your existing setup.
-# Bot's video : https://youtu.be/KjEwCLZ2bKY?si=f9mJGn1qY-8zJtxe
+ Blum Tap Bot is a tool designed to assist with specific in-game actions through automation.
+ This bot is controlled via a simple interface and can be easily integrated with your existing setup.
+  Bot's video : https://youtu.be/KjEwCLZ2bKY?si=f9mJGn1qY-8zJtxe
 
 ## Prerequisites
 # Before you begin, ensure you have the following installed on your system:

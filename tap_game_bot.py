@@ -42,7 +42,7 @@ while keyboard.is_pressed('q') == False:
     orange_contours, _ = cv2.findContours(orange_mask, cv2.RETR_TREE, cv2.CHAIN_APPROX_SIMPLE)
 
     #change the contour for the thema (orange or green)    
-    for contour in orange_contours: # ( green_contours or orange_contours)
+    for contour in green_contours: # ( green_contours or orange_contours)
             area = cv2.contourArea(contour)
             if area > 30:
                 x, y, w, h = cv2.boundingRect(contour)
